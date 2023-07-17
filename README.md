@@ -2,7 +2,7 @@
 
 <p align="justify" margin="80%"> 
 <br>
-I'm <strong>Favour Olajide</strong>, a Fullstack Web Developer and Designer. My Main focus is Frontend and Backend developement. I am a <strong>JS</strong> expert. I am also proficent with other frontend libraries including <strong>React</strong> and <strong>Vue</strong>. I am also very proficient with Nodejs and Laravel on the backend. I recently picked up <strong>Rust</strong> as a high level proramming language.
+I'm <strong>Favour Olajide</strong>, a Fullstack Web Developer and Designer. My Main focus is Frontend and Backend developement. I am a <strong>JS</strong> expert. I am also proficent with other frontend libraries including <strong>React</strong> and <strong>Vue</strong>. I am also very proficient with Nodejs and Laravel on the backend.
 <br>
  I am also a Team player driven by the innate desire to learn new technologies and solve problem with the right tools and language.
 <br>
