@@ -20,4 +20,4 @@ Finally, I'm a freelancer. If you have a need for a web application or website, 
 [![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&labelColor=&logo=facebook&logoColor=white)](https://facebook.com/favour.olajide.1)
 [![Twitter Badge](https://img.shields.io/badge/twitter-1877F2?style=for-the-badge&labelColor=&logo=twitter&logoColor=white)](https://twitter.com/Favourthedev)
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&labelColor=&logo=linkedin&logoColor=white)](https://linkedin.com/in/favour-olajide-favourthedev-5738621ab/)
-[![Stack Overflow Badge](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&labelColor=&logo=stack-overflow&logoColor=white)](https://https://stackoverflow.com/users/21754086/favourthedev)
+[![Stack Overflow Badge](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&labelColor=&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/21754086/favourthedev)
