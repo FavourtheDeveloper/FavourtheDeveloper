@@ -14,10 +14,6 @@ Finally, I'm a freelancer. If you have a need for a web application or website, 
 
 <br>
 
-[![An image of @favourthedeveloper's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/favourthedeveloper)](https://holopin.io/@favourthedeveloper)
-
-<br>
-
 
 [![Whatsapp Badge](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=25D366&labelColor=black)](https://wa.me/+2348033681443)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&labelColor=black&logo=gmail&logoColor=D14836)](mailto:favourthedeveloper@gmail.com)
@@ -25,3 +21,9 @@ Finally, I'm a freelancer. If you have a need for a web application or website, 
 [![Twitter Badge](https://img.shields.io/badge/twitter-1877F2?style=for-the-badge&labelColor=&logo=twitter&logoColor=white)](https://twitter.com/Favourthedev)
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&labelColor=&logo=linkedin&logoColor=white)](https://linkedin.com/in/favour-olajide-favourthedev-5738621ab/)
 [![Stack Overflow Badge](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&labelColor=&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/21754086/favourthedev)
+
+
+
+<br>
+
+[![An image of @favourthedeveloper's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/favourthedeveloper)](https://holopin.io/@favourthedeveloper)
