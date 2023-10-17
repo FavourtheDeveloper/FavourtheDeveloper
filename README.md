@@ -6,7 +6,7 @@ I'm <strong>Favour Olajide</strong>, a Fullstack Developer and Designer. My Main
 <br>
  I am also a Team player driven by the innate desire to learn new technologies and solve problem with the right tools and language.
 <br>
-Finally, I'm a freelancer. If you have a need for a web application or website, contact me by email: <a href="favourthedeveloper@gmail.com">favourthedeveloper@gmail.com</a> or through any of the contact buttons below my profile <br><br>
+Finally, I'm a freelancer. If you have a need for a web application or website, contact me through my email: <a href="favourthedeveloper@gmail.com">favourthedeveloper@gmail.com</a> or through any of the contact buttons below my profile <br><br>
 
 [![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=FavourtheDeveloper&layout=compact)]()
 
