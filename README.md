@@ -4,10 +4,11 @@
 <br>
 👋 Hi, I'm <strong>Favour Olajide</strong>, a Fullstack Developer and Designer with a strong focus on both frontend and backend development. 
 <br>
- 🚀 <strong>My expertise includes:</strong>:
-  - <strong>JavaScript</strong>: I'm highly proficient in JavaScript and its modern frameworks.
-  - <strong>Frontend</strong>: Skilled in React and Angular, I create responsive, user-friendly interfaces.
-  - <strong>Backend</strong>: Proficient with Node.js and Laravel, ensuring robust and scalable backend solutions.
+ 🚀 <strong>My expertise includes:</strong>: 
+ <br>
+  - <strong>JavaScript</strong>: I'm highly proficient in JavaScript and its modern frameworks. <br>
+  - <strong>Frontend</strong>: Skilled in React and Angular, I create responsive, user-friendly interfaces. <br>
+  - <strong>Backend</strong>: Proficient with Node.js and Laravel, ensuring robust and scalable backend solutions. <br>
 <br>
  💡 I'm a <strong>team player</strong> driven by a passion for learning new technologies and solving problems with the right tools and languages.
 💼 <strong>Freelancer</strong>: If you need a custom web application or website, feel free to reach out to me at: <a href="favourthedeveloper@gmail.com">favourthedeveloper@gmail.com</a> or through any of the contact buttons below my profile. <br><br>
