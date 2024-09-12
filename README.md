@@ -2,11 +2,16 @@
 
 <p align="justify" margin="80%"> 
 <br>
-I'm <strong>Favour Olajide</strong>, a Fullstack Developer and Designer. My Main focus is Frontend and Backend developement. I am a <strong>JS</strong> expert. I am also proficent with other frontend libraries including <strong>React</strong> and <strong>Angular</strong>. I am also very proficient with <strong>Nodejs</strong> and <strong>Laravel</strong> on the backend.
+👋 Hi, I'm <strong>Favour Olajide</strong>, a Fullstack Developer and Designer with a strong focus on both frontend and backend development. 
 <br>
- I am also a Team player driven by the innate desire to learn new technologies and solve problem with the right tools and language.
+ 🚀 <strong>My expertise includes:</strong>:
+  - <strong>JavaScript</strong>: I'm highly proficient in JavaScript and its modern frameworks.
+  - <strong>Frontend</strong>: Skilled in React and Angular, I create responsive, user-friendly interfaces.
+  - <strong>Backend</strong>: Proficient with Node.js and Laravel, ensuring robust and scalable backend solutions.
 <br>
-Finally, I'm a freelancer. If you have a need for a web application or website, contact me through my email: <a href="favourthedeveloper@gmail.com">favourthedeveloper@gmail.com</a> or through any of the contact buttons below my profile. <br><br>
+ 💡 I'm a <strong>team player</strong> driven by a passion for learning new technologies and solving problems with the right tools and languages.
+💼 <strong>Freelancer</strong>: If you need a custom web application or website, feel free to reach out to me at: <a href="favourthedeveloper@gmail.com">favourthedeveloper@gmail.com</a> or through any of the contact buttons below my profile. <br><br>
+Let's build something amazing together!
 
 [![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=FavourtheDeveloper&layout=compact)]()
 
